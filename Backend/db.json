@@ -2,11 +2,11 @@
   "linkbase_api": [
     {
       "id": 1,
-      "taskName": "Grocery Shopping",
-      "taskCategories": "Errands",
-      "taskDescription": "Buy fruits, vegetables, milk, and bread.",
-      "taskCreateDate": "March 3, 2024",
-      "taskStatus": "Not Started"
+      "Url": "www.google.com",
+      "Name": "Google",
+      "Wifi Name": "HFT004",
+      "taskCreateDate": "#8547!W",
+      "image": "www.google.com/img.png"
     },
     {
       "id": 2,
